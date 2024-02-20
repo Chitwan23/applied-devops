@@ -17,5 +17,5 @@ void namaste(){
     printf("Namaste");
 }
 void bonjour(){
-    printf("Hola"); //changes from branch2
+    printf("Bonjour!!"); //changes from branch1
 } 
